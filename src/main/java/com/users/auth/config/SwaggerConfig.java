@@ -14,6 +14,6 @@ public class SwaggerConfig {
                 .info(new Info()
                         .title("User Auth API")
                         .version("1.0.0")
-                        .description("API para el registro de usuarios"));
+                        .description("API para el registro y autenticación de usuarios"));
     }
 }
